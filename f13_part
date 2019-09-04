@@ -87,3 +87,19 @@ PERSON Anna Resorcinol
 PERSON Alexandra Muscular
   SEX F
   MOTHER_OF Alyssa Valiant
+
+PERSON Joseph Hamster
+  FATHER_OF Arianna Sovereignty
+
+PERSON Arianna Curl
+  MOTHER_OF Nicholas Insecure
+
+PERSON Landon Thiamin
+  FATHER_OF Riley Benefice
+
+PERSON Gabriel Effete
+  SEX M
+  FATHER_OF Anna Resorcinol
+
+PERSON Madison Total
+  MOTHER_OF Evan Angeline
