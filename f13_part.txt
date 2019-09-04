@@ -94,3 +94,15 @@ PERSON Joseph Hamster
 PERSON Arianna Curl
   MOTHER_OF Nicholas Insecure
 
+PERSON Landon Thiamin
+  FATHER_OF Riley Benefice
+
+PERSON Gabriel Effete
+  SEX M
+  FATHER_OF Anna Resorcinol
+
+PERSON Madison Total
+  MOTHER_OF Evan Angeline
+
+PERSON Makayla Conn
+  MOTHER_OF Aiden Tempestuous
