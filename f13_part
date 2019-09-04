@@ -84,4 +84,13 @@ PERSON Charlie Tadpole
 PERSON Anna Resorcinol
   MOTHER_OF Makayla Conn
 
+PERSON Alexandra Muscular
+  SEX F
+  MOTHER_OF Alyssa Valiant
+
+PERSON Joseph Hamster
+  FATHER_OF Arianna Sovereignty
+
+PERSON Arianna Curl
+  MOTHER_OF Nicholas Insecure
 
