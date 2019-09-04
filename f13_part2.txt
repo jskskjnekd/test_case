@@ -100,3 +100,22 @@ PERSON Landon Thiamin
 PERSON Gabriel Effete
   SEX M
   FATHER_OF Anna Resorcinol
+
+PERSON Madison Total
+  MOTHER_OF Evan Angeline
+
+PERSON Makayla Conn
+  MOTHER_OF Aiden Tempestuous
+
+PERSON Arianna Sovereignty
+  SEX F
+  MOTHER_OF Xavier Carter Diva
+
+PERSON Emma Charlotte Bloodstain
+  MOTHER_OF Lucas Hesperus
+
+PERSON Gabriel Functionary
+  FATHER_OF Cameron Waldo
+
+PERSON Leah Cairo
+  MOTHER_OF Adam
