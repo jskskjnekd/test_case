@@ -119,3 +119,11 @@ PERSON Gabriel Functionary
 
 PERSON Leah Cairo
   MOTHER_OF Adam
+
+PERSON Leah Poseur
+  SEX F
+  MOTHER_OF Molly Hierarchal
+
+PERSON Aubrey Caroline Marksman
+  SEX F
+  MOTHER_OF Daniel Fluorescein
