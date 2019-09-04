@@ -123,23 +123,3 @@ PERSON Leah Cairo
 PERSON Leah Poseur
   SEX F
   MOTHER_OF Molly Hierarchal
-
-PERSON Aubrey Caroline Marksman
-  SEX F
-  MOTHER_OF Daniel Fluorescein
-
-PERSON Daniel Fluorescein
-  FATHER_OF Emma Charlotte Bloodstain
-
-PERSON Gavin Rove
-  FATHER_OF Leah Poseur
-
-PERSON Addison Poultry
-  MOTHER_OF Amelia Rant
-
-PERSON Madison Felicitous
-  SEX F
-  MOTHER_OF Arianna Curl
-
-PERSON Kylie Acumen
-  MOTHER_OF Gavin Rove
